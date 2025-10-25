@@ -42,6 +42,11 @@ npm run dev
 
 React + Vite , Javascript, Tailwindcss
 
+## deployment 
+
+#### Render 
+https://track1-frontend.onrender.com/
+
 ## Screenshots
 
 ### 1.Homepage
