@@ -40,7 +40,7 @@ function App() {
     <Router>
       <div className="min-h-screen bg-background">
         <Header />
-        <main className="min-h-screen bg-background w-4/5 mx-auto">
+        <main className="container mx-auto px-4 py-8 bg-background w-4/5 mx-auto">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/search" element={<Search />} />
