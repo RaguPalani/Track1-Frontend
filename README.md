@@ -1,4 +1,4 @@
-# React + Vite
+<img width="1885" height="918" alt="Screenshot 2025-10-25 183124" src="https://github.com/user-attachments/assets/7cbaca29-9879-4844-9ae9-81c4cbeedccf" /># React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -21,12 +21,10 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Project Initialization
 
 # Step 1: Create Vite React project
-
 npm create vite@latest food-recipes
 cd food-recipes
 
 # Step 2: Install dependencies
-
 npm install
 npm install react-router-dom
 npm install -D tailwindcss postcss autoprefixer
@@ -39,6 +37,8 @@ React + Vite , Javascript, Tailwindcss
 ## Screenshots
 
 # 1.Homepage
+
+
 
 # 2. Recipes 
 
