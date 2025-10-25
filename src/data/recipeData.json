@@ -1,0 +1,354 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Sambar (South Indian Lentil Curry)",
+      "image": "https://www.kamalascorner.com/wp-content/uploads/2025/02/milagai-killi-potta-sambar-750x500.jpg",
+      "description": "A flavorful South Indian curry made with lentils, tamarind, and mixed vegetables.",
+      "prepTime": "20 mins",
+      "cookTime": "25 mins",
+      "totalTime": "45 mins",
+      "difficulty": "Medium",
+      "rating": 4.7,
+      "servings": 4,
+      "category": "Lunch",
+      "price": 180,
+      "ingredients": [
+        "1 cup toor dal (pigeon peas)",
+        "2 tbsp sambar powder",
+        "1/2 cup tamarind juice",
+        "1 cup mixed vegetables (drumstick, carrot, beans)",
+        "1 onion, chopped",
+        "1 tomato, chopped",
+        "2 tbsp oil",
+        "1 tsp mustard seeds",
+        "Few curry leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Pressure cook dal until soft and mash it well.",
+        "Heat oil, add mustard seeds and curry leaves.",
+        "Add onion and tomato; sauté till soft.",
+        "Add vegetables and sambar powder; cook till tender.",
+        "Add tamarind juice and mashed dal; mix well.",
+        "Simmer for 10 minutes and garnish with coriander leaves."
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": "10g",
+        "carbs": "30g",
+        "fat": "7g"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Idli with Pudina-chutney",
+      "image": "https://www.kamalascorner.com/wp-content/uploads/2007/11/Aval-Poha-Idli-360x240.jpg",
+      "description": "Soft, fluffy South Indian breakfast made with fermented rice and urad dal batter.",
+      "prepTime": "10 hrs",
+      "cookTime": "10 mins",
+      "totalTime": "10 hrs 10 mins",
+      "difficulty": "Easy",
+      "rating": 4.9,
+      "servings": 4,
+      "category": "Breakfast",
+      "price": 120,
+      "ingredients": [
+        "2 cups idli rice",
+        "1 cup urad dal",
+        "Salt to taste",
+        "Water as needed"
+      ],
+      "instructions": [
+        "Soak rice and dal separately for 4–6 hours.",
+        "Grind them to a smooth batter; mix and ferment overnight.",
+        "Add salt, mix well and pour into idli molds.",
+        "Steam for 10 minutes and serve with chutney or sambar."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "5g",
+        "carbs": "35g",
+        "fat": "2g"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Dosa (Crispy Rice Crepe)",
+      "image": "https://www.kamalascorner.com/wp-content/uploads/2023/05/8052C5DE-230B-4294-94B2-EA56BCD8233E-750x500.jpeg",
+      "description": "A thin, crispy crepe made from fermented rice and urad dal batter.",
+      "prepTime": "10 hrs",
+      "cookTime": "5 mins",
+      "totalTime": "10 hrs 5 mins",
+      "difficulty": "Easy",
+      "rating": 4.8,
+      "servings": 4,
+      "category": "Breakfast",
+      "price": 150,
+      "ingredients": [
+        "2 cups dosa rice",
+        "1 cup urad dal",
+        "1 tsp fenugreek seeds",
+        "Salt to taste",
+        "Oil for cooking"
+      ],
+      "instructions": [
+        "Soak rice, dal, and fenugreek seeds for 6 hours.",
+        "Grind and ferment overnight.",
+        "Add salt and mix well.",
+        "Spread batter thinly on a hot tawa; drizzle oil and cook till crisp."
+      ],
+      "nutrition": {
+        "calories": 200,
+        "protein": "6g",
+        "carbs": "38g",
+        "fat": "3g"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Pongal (Ven Pongal)",
+      "image": "https://www.kamalascorner.com/wp-content/uploads/2024/01/paal-pongal-750x500.jpg",
+      "description": "A comforting South Indian dish made with rice, moong dal, ghee, and black pepper.",
+      "prepTime": "10 mins",
+      "cookTime": "20 mins",
+      "totalTime": "30 mins",
+      "difficulty": "Easy",
+      "rating": 4.6,
+      "servings": 3,
+      "category": "Breakfast",
+      "price": 140,
+      "ingredients": [
+        "1/2 cup raw rice",
+        "1/4 cup moong dal",
+        "2 tbsp ghee",
+        "1 tsp black pepper",
+        "1 tsp cumin seeds",
+        "Few cashew nuts",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Dry roast moong dal till golden.",
+        "Cook rice and dal together till soft.",
+        "Heat ghee, fry cashews, pepper, and cumin.",
+        "Add to cooked rice-dal mixture and mix well."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "10g",
+        "carbs": "45g",
+        "fat": "10g"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Chicken Chettinad",
+      "image": "https://swatisani.net/kitchen/wp-content/uploads/2015/10/IMG_9350.jpg",
+      "description": "A spicy and aromatic chicken curry from the Chettinad region of Tamil Nadu.",
+      "prepTime": "20 mins",
+      "cookTime": "30 mins",
+      "totalTime": "50 mins",
+      "difficulty": "Hard",
+      "rating": 4.9,
+      "servings": 4,
+      "category": "Dinner",
+      "price": 320,
+      "ingredients": [
+        "500g chicken pieces",
+        "2 onions, sliced",
+        "2 tomatoes, chopped",
+        "2 tbsp Chettinad masala",
+        "2 tbsp oil",
+        "1 tsp ginger-garlic paste",
+        "Salt to taste",
+        "Curry leaves"
+      ],
+      "instructions": [
+        "Heat oil, add onions and curry leaves, sauté till golden.",
+        "Add ginger-garlic paste and tomatoes; cook till soft.",
+        "Add Chettinad masala and chicken pieces.",
+        "Cook until chicken is done and masala thickens."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": "35g",
+        "carbs": "10g",
+        "fat": "30g"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Curd Rice (Thayir Sadam)",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/curd-rice-thayir-sadam.jpg",
+      "description": "A cooling South Indian dish made by mixing rice with curd and tempering.",
+      "prepTime": "10 mins",
+      "cookTime": "15 mins",
+      "totalTime": "25 mins",
+      "difficulty": "Easy",
+      "rating": 4.5,
+      "servings": 3,
+      "category": "Lunch",
+      "price": 100,
+      "ingredients": [
+        "1 cup cooked rice",
+        "1 cup thick curd",
+        "1 tsp mustard seeds",
+        "1 green chili, chopped",
+        "1 tbsp grated carrot",
+        "Few curry leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Mash the rice and mix with curd and salt.",
+        "Heat oil, add mustard seeds, chili, and curry leaves.",
+        "Pour tempering over the curd rice and mix well.",
+        "Garnish with grated carrot and serve chilled."
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": "7g",
+        "carbs": "38g",
+        "fat": "6g"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Prawn Masala",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiVwT8iiElUhnm2pNYxWY_VSTN1YeEPJw2g&s",
+      "description": "A spicy seafood curry made with fresh prawns and South Indian spices.",
+      "prepTime": "15 mins",
+      "cookTime": "20 mins",
+      "totalTime": "35 mins",
+      "difficulty": "Medium",
+      "rating": 4.7,
+      "servings": 4,
+      "category": "Dinner",
+      "price": 380,
+      "ingredients": [
+        "500g prawns, cleaned",
+        "2 onions, chopped",
+        "2 tomatoes, chopped",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp chili powder",
+        "1 tsp turmeric",
+        "Curry leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Heat oil, add onions and sauté till golden.",
+        "Add ginger-garlic paste and tomatoes; cook till soft.",
+        "Add spices and cleaned prawns.",
+        "Cook till prawns turn pink and masala thickens."
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": "30g",
+        "carbs": "10g",
+        "fat": "20g"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Rasam",
+      "image": "https://www.kamalascorner.com/wp-content/uploads/2007/07/Rasam-750x500.jpg",
+      "description": "A tangy South Indian soup made with tamarind, tomato, and pepper.",
+      "prepTime": "10 mins",
+      "cookTime": "15 mins",
+      "totalTime": "25 mins",
+      "difficulty": "Easy",
+      "rating": 4.6,
+      "servings": 3,
+      "category": "Lunch",
+      "price": 90,
+      "ingredients": [
+        "1 tomato, chopped",
+        "1 tbsp tamarind juice",
+        "1 tsp rasam powder",
+        "1 tsp mustard seeds",
+        "1 tsp cumin seeds",
+        "Few curry leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Boil tamarind juice with tomato and rasam powder.",
+        "Add salt and simmer for 10 minutes.",
+        "Prepare tempering with mustard, cumin, and curry leaves.",
+        "Pour over rasam and serve hot with rice."
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": "3g",
+        "carbs": "12g",
+        "fat": "3g"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Vegetable Biryani",
+      "image": "https://www.kamalascorner.com/wp-content/uploads/2016/01/Tomato-Rice-750x500.jpg",
+      "description": "A flavorful rice dish cooked with vegetables, spices, and herbs.",
+      "prepTime": "20 mins",
+      "cookTime": "30 mins",
+      "totalTime": "50 mins",
+      "difficulty": "Medium",
+      "rating": 4.8,
+      "servings": 4,
+      "category": "Lunch",
+      "price": 220,
+      "ingredients": [
+        "1 cup basmati rice",
+        "1 cup mixed vegetables",
+        "1 onion, sliced",
+        "1 tomato, chopped",
+        "1 tbsp biryani masala",
+        "1 tbsp ghee",
+        "Mint and coriander leaves"
+      ],
+      "instructions": [
+        "Sauté onion and tomato in ghee.",
+        "Add vegetables and biryani masala; cook for few minutes.",
+        "Add soaked rice and water; cook till rice is done.",
+        "Garnish with mint and coriander."
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": "9g",
+        "carbs": "65g",
+        "fat": "10g"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Parotta with Salna",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTed-w6V4m9IBWeVTQiHYTLxYTW67V9tEC-iw&s",
+      "description": "Flaky layered flatbread served with spicy salna (gravy).",
+      "prepTime": "30 mins",
+      "cookTime": "20 mins",
+      "totalTime": "50 mins",
+      "difficulty": "Hard",
+      "rating": 4.9,
+      "servings": 3,
+      "category": "Dinner",
+      "price": 160,
+      "ingredients": [
+        "2 cups maida (all-purpose flour)",
+        "2 tbsp oil",
+        "Salt to taste",
+        "Water as needed",
+        "For salna: onion, tomato, spices, and coconut paste"
+      ],
+      "instructions": [
+        "Knead dough with flour, salt, and oil. Rest for 30 mins.",
+        "Roll and fold to form layers, then cook on tawa with oil.",
+        "For salna, sauté onion, tomato, and spices; grind coconut paste and add.",
+        "Cook till gravy thickens and serve with parotta."
+      ],
+      "nutrition": {
+        "calories": 550,
+        "protein": "10g",
+        "carbs": "70g",
+        "fat": "25g"
+      }
+    }
+  ]
+}
